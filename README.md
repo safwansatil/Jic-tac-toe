@@ -1,4 +1,4 @@
-# Jic-tac-toe with Minimax Algorithm
+# Tic-tac-toe with Minimax Algorithm
 
 A Java implementation of Tic-tac-toe featuring an unbeatable opponent using the Minimax algorithm.
 
@@ -22,7 +22,7 @@ A Java implementation of Tic-tac-toe featuring an unbeatable opponent using the 
    ```
 
 3. **Follow the prompts**:
-   - TLDR : Just read the propmpts, they are surrounded by trycatch so even if you go wrong, it wont hurt
+   - TLDR : Just read the propmpts, they are surrounded by try so even if you go wrong, it wont hurt
    - Choose whether to go first or second
    - Select your symbol (X or O)
    - Enter your name
@@ -30,7 +30,7 @@ A Java implementation of Tic-tac-toe featuring an unbeatable opponent using the 
 
 ## Game Rules
 
-Standard tic-tac-toe rules apply. **Spoiler alert**: You can never win! The minimax algorithm ensures the bot will either win or force a draw every single time.
+Standard tic-tac-toe rules apply. **Spoiler alert**: You can never win. The minimax algorithm ensures the bot will either win or force a draw every single time.
 
 ## Some Details
 
